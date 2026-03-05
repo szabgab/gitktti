@@ -1,11 +1,12 @@
 <h1 align="center">
-  <a href="http://saumon.github.io/gitktti/" target="_blank">
+  <a href="https://saumon.github.io/gitktti/" target="_blank">
     <img src="docs/assets/gitktti_logo.png" alt="GitKtti™ Logo - Click to visit landing page" width="150"/>
   </a>
 </h1>
 
 # The `gitktti` project *- by saumon™*
 
+[![Landing Page](https://img.shields.io/badge/Landing_Page-saumon.github.io%2Fgitktti-blue.svg)](https://saumon.github.io/gitktti/)
 [![CPAN version](https://badge.fury.io/pl/App-GitKtti.svg)](https://metacpan.org/pod/App::GitKtti)
 [![License](https://img.shields.io/badge/license-Perl_5-blue.svg)](LICENSE)
 
@@ -563,6 +564,10 @@ cpan-upload App-GitKtti-2.0.0.tar.gz
 ***
 
 ## 📋 Recent Releases
+
+### Release `2.0.4` - 05/03/2026
+
+- **docs**: README update (added link to landing page)
 
 ### Release `2.0.3` - 28/02/2026
 
