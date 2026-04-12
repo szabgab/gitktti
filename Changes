@@ -1,6 +1,7 @@
 # Changes file for App-GitKtti
 2.0.4  2026-03-05
     - DOCS: README update (added link to landing page)
+    - NEW FEATURES: ktag supports main and master branches for tagging
 
 2.0.3  2026-02-28
     - DOCS: GitHub logo on landing page
